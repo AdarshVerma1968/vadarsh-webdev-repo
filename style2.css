@@ -1,0 +1,21 @@
+div{
+    /* background-color: blueviolet;
+    display: inline; */
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+/* button{
+    display: block;
+} */
+
+/* #box2{
+    display: none;
+    visibility:hidden;
+} */
+h1{
+    background-color: rgba(255,0,0,0.5);
+}
+/* o.5 is Opacity which is vary from 0-1 */

@@ -1,0 +1,64 @@
+*/*{  ***universal selector
+    color: wheat;
+}*/
+h1{ 
+    color: green;
+    text-align: center;
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+}
+p{
+    color: hotpink;
+    font-size: 35px;
+}
+button{
+    color: rgb(99, 15, 15);
+    background-color: black;
+}
+
+body{
+    background-color: #05E6DE;
+}
+#headingOne{ 
+    color: navy;
+}
+#headingTwo{
+    color: gold;
+}
+#headingThree{
+    color:brown;
+}
+.myclass{
+    color: blueviolet;
+}
+p1{
+    text-align:center;
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 20px;
+}
+p2{
+    text-align: center;
+    font-family:cursive;
+    text-transform: capitalize;
+}
+a{
+    text-decoration:red underline;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width: 5px;
+    border-style:groove;
+    border-color: tomato;
+    /* border:5px dashed tomato; */
+    border-radius: 5px;
+    /* border-radius: 50% create circle; */
+    padding : 25px;
+    padding-bottom: 25px;
+    /* padding: 1px 2px 3px 4px clock wise; */
+    margin-top: 20px;
+}
